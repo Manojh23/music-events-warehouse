@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-07",
+  "raw_events": 65,
+  "accepted_events": 60,
+  "duplicates": 2,
+  "quarantined": 3,
+  "catalog_tracks": 6,
+  "passed": true,
+  "warehouse_events": 60,
+  "mart_plays": 60,
+  "engine": "duckdb"
+}
